@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Rasheed Adekunle
-#### Frontend Developer from Nigeria
+#### FRONTEND DEVELOPER
 <img src="https://i.ibb.co/9ygDWBs/1.png" alt="1" border="0" width= "100%"/>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Demand from Nigeria, I'm an asparing frontend developer, I really enjoy learning web development especially Javascript, and React as well as work in team. I can develope a px perfect website and bring design to life
 
 ### Social:
 
