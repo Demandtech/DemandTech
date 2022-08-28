@@ -1,12 +1,18 @@
-### Hi there 👋, my name is Adekunle Rasheed
-#### I am a Professional Frontend Developer
-![I am a Professional Frontend Developer](https://images.unsplash.com/photo-1508739826987-b79cd8b7da12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator]
+<img src="https://i.ibb.co/9ygDWBs/1.png" alt="1" border="0" width= "100%"/>
 
-I'm Demand from Nigeria, and I'm an aspiring frontend developer, I really enjoy learning web development, especially Javascript, and React as well as working in a team. I can develop a px perfect website and bring the design to life. You can check out my Twitter at https://twitter.com/demandtvs or https://www.linkedin.com/in/rasheed-adekunle-18540a22b/
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
