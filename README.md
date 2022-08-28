@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, my name is Rasheed Adekunle
+#### Frontend Developer from Nigeria
 ![I am GitHub Readme Generator's creator]
 <img src="https://i.ibb.co/9ygDWBs/1.png" alt="1" border="0" width= "100%"/>
 
