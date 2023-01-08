@@ -10,7 +10,7 @@ I'm Demand from Nigeria, I'm an asparing frontend developer, I really enjoy lear
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,figma,react,typescript&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,figma,react,sass,nextjs&perline=3)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demandtech&show_icons=true&theme=radical)
 
