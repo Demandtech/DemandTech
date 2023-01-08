@@ -15,6 +15,13 @@ I'm Demand from Nigeria, I'm an asparing frontend developer, I really enjoy lear
   </a>
 </p>
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demandtech&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demandtech)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
