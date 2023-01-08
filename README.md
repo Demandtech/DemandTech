@@ -10,7 +10,7 @@ I'm Demand from Nigeria, I'm an asparing frontend developer, I really enjoy lear
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,html,css,sass,tailwind,bootstrap,git,figma," />
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,html,css,sass,tailwind,bootstrap,git,figma&perline=3" />
   </a>
 </p>
 
