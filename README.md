@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Rasheed Adekunle
 #### FRONTEND DEVELOPER
-<img src="https://i.ibb.co/9ygDWBs/1.png" alt="1" border="0" width= "100%"/>
 
 I'm Demand from Nigeria, I'm an asparing frontend developer, I really enjoy learning web development especially Javascript, and React as well as work in team. I can develope a px perfect website and bring design to life
 
