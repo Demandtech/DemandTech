@@ -9,7 +9,7 @@ I'm Demand from Nigeria, I'm an asparing frontend developer, I really enjoy lear
 
 ### Skill
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,html,css,sass,tailwind,bootstrap,git,figma&perline=5&theme=light" />
   </a>
