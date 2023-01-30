@@ -23,7 +23,7 @@ I'm Demand from Nigeria, I'm an asparing frontend developer, I really enjoy lear
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demandtech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Demandtech&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
