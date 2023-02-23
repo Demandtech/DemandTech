@@ -13,7 +13,7 @@ I'm Rasheed from Nigeria, I'm an asparing frontend developer, I really enjoy lea
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript, php, sql, react,nextjs,html,css,sass,tailwind,bootstrap,git,figma&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,sql,react,nextjs,html,css,sass,tailwind,bootstrap,git,figma&perline=5&theme=light" />
   </a>
 </p>
 
