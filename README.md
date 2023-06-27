@@ -1,5 +1,4 @@
 ### Hi there 👋, 
-### My name is Rasheed Adekunle
 #### FRONTEND DEVELOPER
 
 [My Portfolio Website](https://my-portofiio.vercel.app/).
